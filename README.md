@@ -3,7 +3,7 @@
 
 Not tested yet. Be careful!
 
-<img src="rev1/images/cartridge_relocator_render_top.png" alt="render" width="700"/>
+<img src="rev1/images/cartridge_relocator_render_top.png" alt="render" width="400"/>
 
 Edge connector that should fit: ‎395-044-520-201‎	https://www.digikey.se/product-detail/sv/395-044-520-201/151-1428-ND/559822?itemSeq=381630769
 
