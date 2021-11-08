@@ -178,10 +178,22 @@
 <wire x1="-1.27" y1="63.5" x2="59.182" y2="63.5" width="0" layer="20"/>
 <hole x="57.912" y="58.42" drill="3.5"/>
 <hole x="0" y="58.42" drill="3.5"/>
-<text x="29.21" y="15.24" size="1.778" layer="21" font="vector" align="bottom-center">C64 Cartridge Relocator</text>
+<text x="29.21" y="11.43" size="1.778" layer="21" font="vector" align="bottom-center">C64 Cartridge Relocator</text>
 <text x="54.61" y="11.43" size="1.016" layer="21" font="vector" align="bottom-right">Rev 1</text>
 <text x="29.21" y="13.97" size="1.27" layer="22" font="vector" rot="MR0" align="bottom-center">https://github.com/RetroNynjah</text>
 <text x="29.21" y="52.07" size="1.27" layer="22" font="vector" rot="MR0" align="bottom-center">PCB bottom side</text>
+<text x="29.21" y="36.83" size="1.778" layer="21" font="vector" align="bottom-center">Front of cartridge this way</text>
+<polygon width="0.1524" layer="21" pour="solid">
+<vertex x="45.9039625" y="38.0238"/>
+<vertex x="46.99" y="36.9377625"/>
+<vertex x="48.0760375" y="38.0238"/>
+</polygon>
+<polygon width="0.1524" layer="21" pour="solid">
+<vertex x="10.3439625" y="38.0238"/>
+<vertex x="11.43" y="36.9377625"/>
+<vertex x="12.5160375" y="38.0238"/>
+</polygon>
+<text x="41.91" y="58.42" size="1.778" layer="21" font="vector" align="bottom-right">Reset</text>
 </plain>
 <libraries>
 <library name="Per (Fusion 360)" urn="urn:adsk.wipprod:fs.file:vf.HgQBO1aJTZqi1qGyHMRbpQ">
@@ -12085,9 +12097,9 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="59.436" y="39.37" size="1.27" layer="48" rot="R180"/>
 </element>
 <element name="SW1" library="Per (Fusion 360)" library_urn="urn:adsk.wipprod:fs.file:vf.HgQBO1aJTZqi1qGyHMRbpQ" package="SWITCH_MOM_6.0MMX5.0MM" value="SWITCH_MOMENTARY" x="46.99" y="59.055" smashed="yes">
-<attribute name="NAME" x="41.91" y="58.547" size="1.27" layer="25" font="vector" ratio="10" align="bottom-center"/>
+<attribute name="NAME" x="52.07" y="58.547" size="1.27" layer="25" font="vector" ratio="10" align="bottom-center"/>
 </element>
-<element name="U$1" library="Graphics" library_urn="urn:adsk.wipprod:fs.file:vf.si2gx26PTxe2bIo293DkGg" package="RETRONINJA_20MM" package3d_urn="urn:adsk.eagle:package:18928508/1" value="" x="18.415" y="19.05" smashed="yes"/>
+<element name="U$1" library="Graphics" library_urn="urn:adsk.wipprod:fs.file:vf.si2gx26PTxe2bIo293DkGg" package="RETRONINJA_20MM" package3d_urn="urn:adsk.eagle:package:18928508/1" value="" x="18.415" y="15.24" smashed="yes"/>
 <element name="U$2" library="Graphics" library_urn="urn:adsk.wipprod:fs.file:vf.si2gx26PTxe2bIo293DkGg" package="OSHW_16MM" value="" x="36.576" y="23.495" smashed="yes" rot="MR0"/>
 </elements>
 <signals>
