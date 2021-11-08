@@ -1,4 +1,4 @@
-# C64-Cartridge-Relocator
+# Retroninja C64 Cartridge Relocator
 90 degree adapter for mounting a C64 cartridge vertically
 
 Not tested yet. Be careful!
