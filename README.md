@@ -10,3 +10,5 @@ Edge connector that should fit: ‎395-044-520-201‎	https://www.digikey.se/pro
 Capactitor is a 100nF ceramic cap with 5mm pitch. For good measure. Other values could work or even no capacitor at all.
 
 Reset button is optional but a 6x6mm tactile switch is suitable and always nice to have.
+
+fierodoug has designed a 3d-printable enclosure for this board. The design can be found on Thingiverse at https://www.thingiverse.com/thing:5159147
